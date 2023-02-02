@@ -38,7 +38,6 @@ Welcome to the Bankist landing page repository! This repository contains the sou
 [Live Demo](https://alyqamar.github.io/Bankist-landing-page) 
 
 ## Features
-- [x] Fully responsive design that looks great on any device
 - [x] Sticky navigation 
 - [x] Reveal sections with scrolling
 - [x] Lazy loading images with scrolling
