@@ -29,10 +29,10 @@
   
 ## About The Project
 
-Welcome to the Landing Page repository! This repository contains the source code for a landing page template built using HTML, CSS, and JavaScript. This template is fully responsive.
+Welcome to the Bankist landing page repository! This repository contains the source code for a landing page template built using HTML, CSS, and JavaScript. This template is fully responsive.
 
 <h1 align="center">
-    <img src="Screenshot.png"/>
+    <img src="img/Screenshot.png"/>
 </h1>
 
 [Live Demo](https://alyqamar.github.io/Bankist/) 
