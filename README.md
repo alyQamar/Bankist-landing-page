@@ -35,7 +35,7 @@ Welcome to the Bankist landing page repository! This repository contains the sou
     <img src="img/Screenshot.png"/>
 </h1>
 
-[Live Demo](https://alyqamar.github.io/Bankist/) 
+[Live Demo](https://alyqamar.github.io/Bankist-landing-page) 
 
 ## Features
 - [x] Fully responsive design that looks great on any device
